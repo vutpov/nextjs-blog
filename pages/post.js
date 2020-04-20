@@ -8,7 +8,7 @@ function Content() {
   return (
     <Layout>
       <h1>{router.query.title}</h1>
-      <p>This is blog post content. pov pov 123</p>
+      <p>This is blog post content.</p>
     </Layout>
   )
 }

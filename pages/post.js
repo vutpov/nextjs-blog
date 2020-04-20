@@ -13,7 +13,7 @@ function Content() {
   )
 }
 
-export default Page = ()=>(
+export default ()=>(
   <Layout>
     <Content/>
   </Layout>
